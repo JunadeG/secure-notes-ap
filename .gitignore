@@ -1,0 +1,12 @@
+# Compiled Java output
+/target/
+
+# IDE configuration files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Sensitive configuration - NEVER COMMIT
+src/main/resources/application.properties
